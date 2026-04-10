@@ -55,7 +55,8 @@ Ahmedabad-Bus-Tracking-Seat-Booking-System/
 ├── .gitignore
 └── README.md
 
-## ⚙️ How It Works (System Flow)
+```
+### ⚙️ How It Works (System Flow)
 
 ### Dataset Initialization
 On startup or through admin upload, the backend parses the Ahmedabad bus dataset and populates MongoDB with valid routes, stops, and coordinate points.
@@ -127,7 +128,7 @@ Make sure the following are installed:
 
 ```bash
 git clone https://github.com/Chetan-Suhagiya/Ahmedabad-Bus-Tracking-Seat-Booking-System.git
-cd Ahmedabad-Bus-Tracking-Seat-Booking-System
+cd Ahmedabad-Bus-Tracking-Seat-Booking-System ```
 
 ### 2. Backend Setup
 
