@@ -128,8 +128,8 @@ Make sure the following are installed:
 
 ```bash
 git clone https://github.com/Chetan-Suhagiya/Ahmedabad-Bus-Tracking-Seat-Booking-System.git
-cd Ahmedabad-Bus-Tracking-Seat-Booking-System ```
-
+cd Ahmedabad-Bus-Tracking-Seat-Booking-System 
+```
 ### 2. Backend Setup
 
 ```bash
@@ -204,30 +204,6 @@ Open the tracking section and view the route and simulated live movement on the 
 
 ### Admin Access
 Log in with admin credentials, view the dashboard, and test dataset upload and management features.
-
----
-
-## 📸 Screenshots / Demo
-
-Add your screenshots here:
-
-- Home / Search Page
-- Seat Selection Page
-- Live Tracking Page
-- Booking History Page
-- Admin Dashboard
-
-### Example format
-
-```markdown
-## Screenshots
-
-### Home Page
-![Home Page](./screenshots/home.png)
-
-### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
-```
 
 ---
 
